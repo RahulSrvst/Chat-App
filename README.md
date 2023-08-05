@@ -53,5 +53,5 @@ yarn start
 
 Done! Now open localhost:3000 in your browser.
 
-                                                  # THANK YOU
-                                              # Created by- Rahul Srivastva
+                                                      # THANK YOU
+                                              # Created by- Rahul Srivastava
