@@ -1,5 +1,5 @@
 Chat-App 
-Snappy is chat application build with the power of MERN Stack.
+The Chat Application Project (Snappy) is made up of ReactJS to create a dynamic and responsive platform for real-time communication. Users can engage in text-based conversations, share media, and create groups. With features like message encryption, notifications, and user authentication, it ensures both security and usability. Its sleek interface and scalability make it ideal for personal and professional communication needs, fostering seamless and engaging interactions in the digital realm.
 
 
 ![login page](./images/snappy_login.png)
